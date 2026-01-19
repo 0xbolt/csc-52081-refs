@@ -1,10 +1,25 @@
 # csc-52081-refs
-References and suggested readings for CSC-52081. Generated partially by ChatGPT.
+My own set of references and suggested readings for CSC-52081 (Reinforcement Learning) at École Polytechnique. Generated partially by ChatGPT.
 
-> Please note that these are unofficial course notes. They may contains mistakes.
+> Please note that these are unofficial course notes. They may contain mistakes.
 
 ## Schedule
 | Session & Topics | Readings & References |
 | --- | --- |
 | Session 1 – Probabilistic Reasoning and Decision Making <br><br> Topics: <br> • Autonomous / rational agents <br> • Observation → state → action → reward pipeline <br> • Decision theory &amp; expected reward <br> • Bayesian Networks (DAGs, factorization) <br> • Conditional independence &amp; explaining away <br> • Stochastic processes <br> • Markov property &amp; Markov processes <br> • HMM <br> • POMDP <br> • Planning vs decision making <br> • Imitation &amp; model learning (conceptual) | Sutton &amp; Barto: <br> • Ch. 1.1–1.3 – RL problem &amp; agents <br> • Ch. 3.1–3.3 – Agent–Environment Interface, Rewards <br> • Ch. 3.5–3.6 – Markov Property, MDPs <br> • Ch. 4 (conceptual) – Planning as optimization <br><br> Additional references: <br> • Koller &amp; Friedman (2009), Probabilistic Graphical Models <br> • Murphy (2012), ML: A Probabilistic Perspective <br> • [Rabiner (1989), HMM tutorial](https://www.cs.ubc.ca/~murphyk/Bayes/rabiner.pdf) <br> • [Kaelbling et al. (1998), POMDP](https://people.csail.mit.edu/lpk/papers/aij98-pomdp.pdf) <br><br> Suggested readings: <br> • Sutton (2019), [“The Bitter Lesson”](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) — why general methods (search + learning) matter more than handcrafted knowledge <br>
 | Session 2 – Bandit Machines (and MCTS) <br><br> Topics: <br> • Multi-armed bandits <br> • Regret &amp; sequential decisions <br> • Exploration vs exploitation <br> • ε-greedy <br> • UCB (Upper Confidence Bounds) <br> • Regret guarantees (high-level) <br> • Thompson Sampling (Bayesian bandits) <br> • EXP3 (adversarial bandits, importance sampling) <br> • Contextual bandits <br> • Monte Carlo Tree Search (MCTS) <br> • UCT (UCB for Trees) | Sutton &amp; Barto: <br> • Ch. 2.1–2.3 – Bandits, ε-greedy <br> • Ch. 2.6 – UCB <br> • Ch. 2.8 – Contextual bandits <br> • Ch. 8.7–8.8 – Planning &amp; MCTS intuition <br><br> Additional references: <br> • [Auer et al. (2002) – UCB &amp; EXP3](https://homes.di.unimi.it/~cesabian/Pubblicazioni/ml-02.pdf) <br> • Lattimore &amp; Szepesvári (2020), Bandit Algorithms <br> • [Russo et al. (2018), Thompson Sampling tutorial](https://arxiv.org/pdf/1707.02038) <br><br> Suggested readings: <br> • Lattimore &amp; Szepesvári Ch. 1–3 (regret &amp; exploration theory) <br> •  [Kocsis &amp; Szepesvári (2006), UCT](http://ggp.stanford.edu/readings/uct.pdf) |
+
+## Books
+- Sutton & Barto — Reinforcement Learning
+- Lattimore & Szepesvári — Bandit Algorithms
+- Murphy — Probabilistic ML
+- Koller & Friedman — PGMs
+- Russell & Norvig — AI: A Modern Approach
+
+## Other courses
+> Only the Stanford one is open, but it's interesting to see what their content is.
+- https://web.stanford.edu/class/cs234/
+- https://davidstarsilver.wordpress.com/teaching/
+- https://erachelson.github.io/RLclass_MVA/index.html
+- https://www.master-mva.com/cours/reinforcement-learning-2/
+- https://edu.epfl.ch/coursebook/fr/reinforcement-learning-EE-568
