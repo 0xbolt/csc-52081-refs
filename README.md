@@ -10,11 +10,11 @@ My own set of references and suggested readings for CSC-52081 (Reinforcement Lea
 | Session 2 – Bandit Machines (and MCTS) <br><br> Topics: <br> • Multi-armed bandits <br> • Regret &amp; sequential decisions <br> • Exploration vs exploitation <br> • ε-greedy <br> • UCB (Upper Confidence Bounds) <br> • Regret guarantees (high-level) <br> • Thompson Sampling (Bayesian bandits) <br> • EXP3 (adversarial bandits, importance sampling) <br> • Contextual bandits <br> • Monte Carlo Tree Search (MCTS) <br> • UCT (UCB for Trees) | Sutton &amp; Barto: <br> • Ch. 2.1–2.3 – Bandits, ε-greedy <br> • Ch. 2.6 – UCB <br> • Ch. 2.8 – Contextual bandits <br> • Ch. 8.7–8.8 – Planning &amp; MCTS intuition <br><br> Additional references: <br> • [Auer et al. (2002) – UCB &amp; EXP3](https://homes.di.unimi.it/~cesabian/Pubblicazioni/ml-02.pdf) <br> • Lattimore &amp; Szepesvári (2020), Bandit Algorithms <br> • [Russo et al. (2018), Thompson Sampling tutorial](https://arxiv.org/pdf/1707.02038) <br><br> Suggested readings: <br> • Lattimore &amp; Szepesvári Ch. 1–3 (regret &amp; exploration theory) <br> •  [Kocsis &amp; Szepesvári (2006), UCT](http://ggp.stanford.edu/readings/uct.pdf) |
 
 ## Books
-- Sutton & Barto — Reinforcement Learning
-- Lattimore & Szepesvári — Bandit Algorithms
+- [Sutton & Barto — Reinforcement Learning](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+- [Lattimore & Szepesvári — Bandit Algorithms](https://tor-lattimore.com/downloads/book/book.pdf)
 - Murphy — Probabilistic ML
-- Koller & Friedman — PGMs
-- Russell & Norvig — AI: A Modern Approach
+- [Koller & Friedman — PGMs](http://mcb111.org/w06/KollerFriedman.pdf)
+- [Russell & Norvig — AI: A Modern Approach](https://people.engr.tamu.edu/guni/csce625/slides/AI.pdf)
 
 ## Other courses
 > Only the Stanford one is open, but it's interesting to see what their content is.
