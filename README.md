@@ -16,7 +16,7 @@ My own set of references and suggested readings for CSC-52081 (Reinforcement Lea
 - [Koller & Friedman — PGMs](http://mcb111.org/w06/KollerFriedman.pdf)
 - [Russell & Norvig — AI: A Modern Approach](https://people.engr.tamu.edu/guni/csce625/slides/AI.pdf)
 
-## Other courses
+## Other Courses
 > Only the Stanford one is open, but it's interesting to see what their content is.
 - https://web.stanford.edu/class/cs234/
 - https://davidstarsilver.wordpress.com/teaching/
