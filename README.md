@@ -23,3 +23,39 @@ My own set of references and suggested readings for CSC-52081 (Reinforcement Lea
 - https://erachelson.github.io/RLclass_MVA/index.html
 - https://www.master-mva.com/cours/reinforcement-learning-2/
 - https://edu.epfl.ch/coursebook/fr/reinforcement-learning-EE-568
+- https://rail.eecs.berkeley.edu/deeprlcourse/
+
+## Seminal Papers
+- Bellman (1957) — Dynamic Programming
+- Watkins & Dayan (1992) — Q-learning
+- Williams (1992) — REINFORCE
+- Mnih et al. (2015) — DQN (Nature)
+- Schulman et al. (2017) — PPO
+- Lillicrap et al. (2016) — DDPG
+- Silver et al. (2016) — AlphaGo
+- Silver et al. (2017) — AlphaZero
+- Osband et al. (2016) — Bootstrapped DQN
+- Sutton (1988) — TD(λ)
+
+## Miscellaneous
+- https://spinningup.openai.com/en/latest/
+- https://lilianweng.github.io/posts/2018-01-23-multi-armed-bandit/
+- https://lilianweng.github.io/posts/2018-02-19-rl-overview/
+- https://lilianweng.github.io/posts/2024-11-28-reward-hacking/
+- https://lilianweng.github.io/posts/2018-04-08-policy-gradient/
+- https://lilianweng.github.io/posts/2018-05-05-drl-implementation/
+- https://lilianweng.github.io/posts/2019-06-23-meta-rl/
+- https://lilianweng.github.io/posts/2019-09-05-evolution-strategies/
+- https://lilianweng.github.io/posts/2020-01-29-curriculum-rl/
+- https://lilianweng.github.io/posts/2020-06-07-exploration-drl/
+- https://lilianweng.github.io/posts/2019-11-10-self-supervised/
+- https://karpathy.github.io/2016/05/31/rl/
+- https://karpathy.medium.com/alphago-in-context-c47718cb95a5
+- https://gymnasium.farama.org
+- https://www.jasonwei.net/blog/life-lessons-from-reinforcement-learning
+- https://stable-baselines3.readthedocs.io/en/master/
+- https://docs.ray.io/en/latest/rllib/index.html
+- https://d2l.ai/chapter_reinforcement-learning/index.html
+- https://distill.pub/2020/understanding-rl-vision/
+- https://spinningup.openai.com/en/latest/spinningup/keypapers.html
+- https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm
